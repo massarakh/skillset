@@ -1,0 +1,6 @@
+interface:
+  display_name: "To Spec"
+  short_description: "Собрать локальный черновик спецификации"
+  default_prompt: "$to-spec: Сформируй локальную Vision по итогам обсуждения."
+policy:
+  allow_implicit_invocation: false
