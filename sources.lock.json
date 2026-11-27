@@ -539,6 +539,19 @@
           "executable": false
         }
       }
+    },
+    "setup-workspace": {
+      "origin": "local",
+      "baseline_files": {
+        "SKILL.md": {
+          "sha256": "f7a754c674a30b351e727a27f6d35e3d299fbf49797c3b9a8705549f3a8a0feb",
+          "executable": false
+        },
+        "agents/openai.yaml": {
+          "sha256": "413433d4c00200b9278d881b80238281971dbdb389153c6a21e5b322096d62e9",
+          "executable": false
+        }
+      }
     }
   }
 }
